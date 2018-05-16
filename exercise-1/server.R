@@ -1,6 +1,6 @@
 # server.R
 library(dplyr)
-
+library(shinythemes)
 # Read in data
 source('./scripts/build_map.R')
 source('./scripts/build_scatter.R')

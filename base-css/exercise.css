@@ -1,5 +1,7 @@
 /* make sure you add the link tag to link to exercise.css which is in ../base-css directory*/
-
+<head>
+<link rel="stylesheet" hrefs="../base-html/exercise.html"
+</head>
 /* add an id to the top level h1 header called first-header*/
 
 /* change the color of the first-header to purple and set font-family to Roboto*/
@@ -25,6 +27,6 @@
 
 
 
-/*add a transition to the image and the image when it is hovered so that the change in size happens for 1s and 'ease-out' 
+/*add a transition to the image and the image when it is hovered so that the change in size happens for 1s and 'ease-out'
 hint: modify img and img:hover to have a `transition` property
 */
