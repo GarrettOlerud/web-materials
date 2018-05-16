@@ -1,0 +1,8 @@
+#first-header{
+  font-style: oblique;
+}
+/* add an id to the top level h1 header called first-header*/
+#word{
+  font-size: 32px;
+  font-style: italic;
+}
